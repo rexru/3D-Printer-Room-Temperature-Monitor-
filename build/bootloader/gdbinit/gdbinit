@@ -1,0 +1,2 @@
+source /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/bootloader/gdbinit/symbols
+source /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/bootloader/gdbinit/connect

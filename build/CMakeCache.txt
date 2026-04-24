@@ -366,7 +366,7 @@ Mbed TLS_IS_TOP_LEVEL:STATIC=OFF
 Mbed TLS_SOURCE_DIR:STATIC=/home/rushil/.espressif/v6.0/esp-idf/components/mbedtls/mbedtls
 
 //No help, variable specified on the command line.
-PYTHON:UNINITIALIZED=/home/rushil/.espressif/tools/python/v6.0/venv/bin/python3
+PYTHON:UNINITIALIZED=/home/rushil/.espressif/python_env/idf6.0_py3.12_env/bin/python
 
 //No help, variable specified on the command line.
 PYTHON_DEPS_CHECKED:UNINITIALIZED=1
@@ -626,7 +626,7 @@ C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS:INTERNAL=1
 //Details about finding Git
 FIND_PACKAGE_MESSAGE_DETAILS_Git:INTERNAL=[/usr/bin/git][v2.43.0()]
 //Details about finding Python3
-FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[/home/rushil/.espressif/tools/python/v6.0/venv/bin/python3][cfound components: Interpreter ][v3.12.3()]
+FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[/home/rushil/.espressif/python_env/idf6.0_py3.12_env/bin/python][cfound components: Interpreter ][v3.12.3()]
 //Details about finding Threads
 FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
 //ADVANCED property for variable: GIT_EXECUTABLE
@@ -637,10 +637,10 @@ _GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/usr/local
 _Python3_Compiler_REASON_FAILURE:INTERNAL=
 //Development reason failure
 _Python3_Development_REASON_FAILURE:INTERNAL=
-_Python3_EXECUTABLE:INTERNAL=/home/rushil/.espressif/tools/python/v6.0/venv/bin/python3
+_Python3_EXECUTABLE:INTERNAL=/home/rushil/.espressif/python_env/idf6.0_py3.12_env/bin/python
 //Python3 Properties
-_Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;12;3;32;64;;;abi3;/usr/lib/python3.12;/home/rushil/.espressif/tools/python/v6.0/venv/lib/python3.12;/home/rushil/.espressif/tools/python/v6.0/venv/lib/python3.12/site-packages;/home/rushil/.espressif/tools/python/v6.0/venv/lib/python3.12/site-packages
-_Python3_INTERPRETER_SIGNATURE:INTERNAL=768bf3031916bb033236f9d40f4b8fa9
+_Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;12;3;32;64;;;abi3;/usr/lib/python3.12;/home/rushil/.espressif/python_env/idf6.0_py3.12_env/lib/python3.12;/home/rushil/.espressif/python_env/idf6.0_py3.12_env/lib/python3.12/site-packages;/home/rushil/.espressif/python_env/idf6.0_py3.12_env/lib/python3.12/site-packages
+_Python3_INTERPRETER_SIGNATURE:INTERNAL=aa5c0c7bc7a5c8d526a31463d34f145f
 //NumPy reason failure
 _Python3_NumPy_REASON_FAILURE:INTERNAL=
 
