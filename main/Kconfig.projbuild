@@ -1,0 +1,15 @@
+menu "WIFI Fallback Credentials"
+
+    config WIFI_FALLBACK_SSID
+        string "Fallback SSID"
+        default ""
+        help
+            Used if NVS has no credentials stored.
+    
+    config WIFI_FALLBACK_PASSWORD
+        string "Fallback Password"
+        default ""
+        help
+            Used if NVS has no credentials stored. 
+
+endmenu

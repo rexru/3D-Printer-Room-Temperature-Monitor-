@@ -705,6 +705,15 @@ CONFIG_PARTITION_TABLE_MD5=y
 # end of Partition Table
 
 #
+# WIFI Fallback Credentials
+#
+# default:
+CONFIG_WIFI_FALLBACK_SSID=""
+# default:
+CONFIG_WIFI_FALLBACK_PASSWORD=""
+# end of WIFI Fallback Credentials
+
+#
 # Compiler options
 #
 # default:

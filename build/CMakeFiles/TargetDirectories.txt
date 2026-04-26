@@ -1081,3 +1081,10 @@
 /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/main/CMakeFiles/install.dir
 /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/main/CMakeFiles/install/local.dir
 /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/main/CMakeFiles/install/strip.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/__idf_wifi_manager.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/edit_cache.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/rebuild_cache.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/list_install_components.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/install.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/install/local.dir
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/CMakeFiles/install/strip.dir

@@ -194,3 +194,4 @@ $<TARGET_FILE:idf::perfmon>
 $<TARGET_FILE:idf::rt>
 $<TARGET_FILE:idf::spiffs>
 $<TARGET_FILE:idf::main>
+$<TARGET_FILE:idf::wifi_manager>

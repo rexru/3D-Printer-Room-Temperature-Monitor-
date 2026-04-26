@@ -705,6 +705,13 @@ CONFIG_PARTITION_TABLE_MD5=y
 # end of Partition Table
 
 #
+# WIFI Fallback Credentials
+#
+CONFIG_WIFI_FALLBACK_SSID="dlink-2160"
+CONFIG_WIFI_FALLBACK_PASSWORD="ABCDEF0123456789ABCDEF0123"
+# end of WIFI Fallback Credentials
+
+#
 # Compiler options
 #
 # default:

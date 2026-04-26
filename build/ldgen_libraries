@@ -194,3 +194,4 @@
 /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/rt/librt.a
 /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/spiffs/libspiffs.a
 /home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/main/libmain.a
+/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/libwifi_manager.a

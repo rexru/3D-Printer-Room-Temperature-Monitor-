@@ -4874,6 +4874,34 @@
     {
         "children": [
             {
+                "children": [],
+                "depends_on": null,
+                "help": "Used if NVS has no credentials stored.",
+                "id": "WIFI_FALLBACK_SSID",
+                "name": "WIFI_FALLBACK_SSID",
+                "range": null,
+                "title": "Fallback SSID",
+                "type": "string"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "Used if NVS has no credentials stored.",
+                "id": "WIFI_FALLBACK_PASSWORD",
+                "name": "WIFI_FALLBACK_PASSWORD",
+                "range": null,
+                "title": "Fallback Password",
+                "type": "string"
+            }
+        ],
+        "depends_on": null,
+        "id": "wifi-fallback-credentials-home-rushil-Documents-Temperature Project-3D-Printer-Room-Temperature-Monitor--main-Kconfig.projbuild-1",
+        "title": "WIFI Fallback Credentials",
+        "type": "menu"
+    },
+    {
+        "children": [
+            {
                 "children": [
                     {
                         "children": [],

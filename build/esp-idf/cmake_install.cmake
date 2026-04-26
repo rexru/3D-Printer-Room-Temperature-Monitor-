@@ -712,3 +712,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/main/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/home/rushil/Documents/Temperature Project/3D-Printer-Room-Temperature-Monitor-/build/esp-idf/wifi_manager/cmake_install.cmake")
+endif()
+
