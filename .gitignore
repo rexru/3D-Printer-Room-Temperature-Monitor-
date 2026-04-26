@@ -1,0 +1,4 @@
+sdkconfig
+sdkconfig.defaults.local
+build/
+.vscode/
