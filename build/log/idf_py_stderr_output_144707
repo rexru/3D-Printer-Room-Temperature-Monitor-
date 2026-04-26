@@ -1,9 +1,0 @@
-Command: ninja flash
-[1mConfiguration Report               [0m
- ───────────────────────────────── 
-   Parser Version: 1               
-   Verbosity: default              
-   Defaults policy: sdkconfig      
-  [32m [0m[32mStatus: Finished successfully[0m[32m [0m  
-                                   
- ───────────────────────────────── 
