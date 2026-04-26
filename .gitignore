@@ -1,4 +1,6 @@
 sdkconfig
+sdkconfig.old
+README.md
 sdkconfig.defaults.local
 build/
 .vscode/
