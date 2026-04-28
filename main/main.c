@@ -30,6 +30,31 @@ static void my_wifi_callback(wifi_manager_event_t event, uint32_t ip_addr) {
 }
 
 
+static void ota_callback(ota_manager_event_t event, int progress) {
+    switch (event){
+        case OTA_EVENT_TRIGGERED:
+            ESP_LOGI(TAG, "OTA triggered - pausing sensor collection");
+            // sensor pausing & mqtt publsih pause
+            break;
+        
+        case OTA_EVENT_PROGRESS:
+            ESP_LOGI(TAG, "OTA downloading... %d%%", progress);
+            break;
+        
+        case OTA_EVENT_SUCCESS:
+            ESP_LOGI(TAG, "OTA complete - rebooting");
+            break;
+        
+        case OTA_EVENT_FAILED:
+            ESP_LOGE(TAG, "OTA failed - resuming normal operation");
+            // resume normal operations sensors & mqtt publish resume    
+    }       
+
+}
+
+
+
+
 static void network_task(void *arg) {
     ESP_LOGI(TAG, "Network task waiting for WiFi...");
     
